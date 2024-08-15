@@ -1,7 +1,7 @@
 # 3D Cube example
 
-autor: Dawid Bielecki - dawciobel
-data: 2024.08.15
+Autor: Dawid Bielecki — dawciobiel
+Data: 2024.08.15
 
 ## Info
 
